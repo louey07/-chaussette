@@ -1,0 +1,27 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "chaussette verte",
+      "color": "green",
+      "image": "socks_green.jpg",
+      "quantity": 50
+    },
+    {
+      "id": 2,
+      "name": "chaussette bleue",
+      "color": "blue",
+      "image": "socks_blue.jpg",
+      "quantity": 18
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "review": "Great socks!",
+      "rating": 5,
+      "recommend": "Yes"
+    }
+  ]
+}
